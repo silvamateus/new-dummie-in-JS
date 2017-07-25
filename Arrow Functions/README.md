@@ -16,7 +16,7 @@
 >```
 > A expressão acima é equivalente à: 
 >```js
->    const soma = (val1, val2) >=> {return val1 + val2};
+>    const soma = (val1, val2)  => {return val1 + val2};
 >    soma(5,6);
 >```
 >
