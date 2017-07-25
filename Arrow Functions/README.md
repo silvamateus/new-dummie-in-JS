@@ -7,18 +7,17 @@
 > Bom, vamos ao primeiro exercício:
 >
 > Exercício básico de somar dois valores
-
-```js
-
-    const soma = (val1 , val2) => val1 + val2;
-    soma(5,6);
-
-```
-A expressão acima é equivalente à 
-
-```js
-    const soma = (val1, val2) => {return val1 + val2};
-    soma(5,6);
-```
+>
+>```js
+>
+>    const soma = (val1 , val2) => val1 + val2;
+>    soma(5,6);
+>
+>```
+> A expressão acima é equivalente à: 
+>```js
+>    const soma = (val1, val2) >=> {return val1 + val2};
+>    soma(5,6);
+>```
 >
 > 
