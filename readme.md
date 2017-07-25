@@ -1,1 +1,0 @@
-new dummie js test
